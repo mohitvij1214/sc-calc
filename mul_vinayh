@@ -1,0 +1,5 @@
+init mul(int a, int b){
+       printf("tjhis is the function from VinayH")
+       return a * b;
+       }
+       
